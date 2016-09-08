@@ -26,7 +26,7 @@ Die Hochzeit findet am __[26.05.2017]({{ site.production_url }}/Hochzeit_Liza_Ro
 
 ## Ja oder Nein?
 
-Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Liza_Robert.ics)__ via [E-Mail](mailto:hochzeit@einkoffervollerreisen.de) oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
+Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Liza_Robert.ics)__ via __[E-Mail](mailto:hochzeit@einkoffervollerreisen.de)__ oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
 
 ## Unterkunft im Hotel
 
@@ -49,32 +49,40 @@ Bei der Buchung bitte angeben, dass ihr zur __Hochzeitsgesellschaft Hahne/Mühsi
 
 ### Hotel Adresse
 
-Hotel Freihof
-
-Freihofgasse 3
-
-97357 Prichsenstadt
-
-Deutschland
-
-http://www.hotelfreihof.com/
-
-Tel. +49 (0) 93 83. 90 20 340
-
-info@hotelfreihof.com
+Hotel Freihof<br/>
+Freihofgasse 3<br/>
+97357 Prichsenstadt<br/>
+Deutschland<br/>
+http://www.hotelfreihof.com/<br/>
+Tel. +49 (0) 93 83. 90 20 340<br/>
+info@hotelfreihof.com<br/>
 
 ### Alternativen Unterkünfte
 
 Falls ihr nicht direkt im Hotel übernachten möchtet gibt es auch noch (evtl. günstigere) Alternativen direkt im Ort:
 
-[Gasthof Weingut zum Storch](http://www.gasthof-storch.de/) - Tel: 09383 / 6587
-
-[Gasthof Grüner Baum](http://www.gasthaus-gruener-baum.com/) - Tel: 09383 / 1572
+* [Gasthof Weingut zum Storch](http://www.gasthof-storch.de/) - Tel: 09383 / 6587
+* [Gasthof Grüner Baum](http://www.gasthaus-gruener-baum.com/) - Tel: 09383 / 1572
 
 ## Die Feier
 
-Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. 
+Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. Falls ihr etwas zur Abendgestaltung beitragen wollt, dann wendet euch einfach an __Katja Möwius oder Marcus Mühsig__ - ihr Nummern findet ihr auf eurer Einladung.
 
 ## Für die kleinen Gäste
 
 Wir werden für den Abend ein Babysitter organisieren, welcher auf Babyphones und co. achtet. Direkt bei der Hochzeitslocation gibt es zum ein kleinen Spielplatz. 
+
+Falls jemand einen Tag früher anreisen will, wäre auch ein __[Freizeitpark](http://www.freizeitlandgeiselwind.de/)__ in der Nähe und wir sind bestimmt ohnehin schon in der Gegend.
+
+### Unsere Adresse
+
+Liza Hahne/Robert Mühsig<br/>
+Im Espel 16<br/>
+9545 Wängi TG<br/>
+Schweiz<br/>
+[hochzeit@einkoffervollerreisen.de](mailto:hochzeit@einkoffervollerreisen.de)<br/>
++41 79 827 04 57
+
+## Wir freuen uns auf euch!
+
+Wir hoffen das wir euch alle am 26.05 begrüssen können.
