@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TEST"
-subtitle: "TEST2"
+title: "Wir heiraten!"
+subtitle: "Am 26.05.2017"
 header-image: "images-2015-chile/chile-2015-01-16_00068-1280x720.jpg"
 navigation:
   previous:
@@ -17,17 +17,54 @@ navigation:
     image: "images-2015-chile/chile-2015-01-15_00067-965x350.jpg"
     link: "/2015-chile/insel-chileo"
 ---
-Unser Flug ging erst gegen 13.00 Uhr, daher war die Abgabe des Mietwagens und co. recht entspannt. Von Calama ging die Reise erst nach Santiago und dann nach Puerto Montt. Wir haben uns bewusst relativ viel Puffer in Santiago gelassen (oder es gab keine günstigeren Flüge mehr… wir wissen es nicht mehr so genau), sodass wir eigentlich gegen 20.45 Uhr in Puerto Montt ankommen sollten. Hier kamen jetzt ein paar Schwierigkeiten auf uns zu – die wir aber schon bei der Buchung so geahnt hatten:
 
-{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47838.796403754044!2d-72.94801809999998!3d-41.46254685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96183a4d6920f407%3A0x86a3f15a79a5c9df!2sPuerto+Montt%2C+Regi%C3%B3n+de+los+Lagos%2C+Chile!5e0!3m2!1sde!2sch!4v1435522124736" %}
+## Location & Hotel
 
-Unsere Autovermietung Alamo macht offiziell ihren Schalter 21.00 Uhr zu. Dazu kommt dass wir für die Grenzüberquerung nach Argentinien eine Erlaubnis benötigen – laut Internet kann diese Erlaubnis 1 bis 2 Tage dauern und die Autovermietung kann dies erst ausfüllen wenn man vor dem Schalter steht. In Puerto Montt selber sind wir aber nur 2 Tage. Dazu kommt das wir demnächst eine Fähre buchen müssen – dies geht allerdings auch nur mit dem besagtem Auto, weil man das Kennzeichen angeben muss.
+Die Hochzeit findet am __26.05.2017__ (das ist der Tag nach Männertag) im __[Hotel Freihof](http://www.hotelfreihof.com)__ in der Nähe von Würzburg statt:
 
-Nun zu den Problemen: Unser Flug von Santiago nach Puerto Montt wurde leicht verschoben – anstatt 20.45 kommen wir nun 21.15 an. Beim Alamo Schalter ging leider auch keiner ran. In Santiago selbst hatten wir daher ca. 3,5 Stunden Aufenthalt und hatten uns ziemlich viele Gedanken darum gemacht was passiert wenn wir das Auto jetzt nicht bekommen und dadurch das Visa noch länger dauert und wann wir nun die Fähre reservieren.
-Bislang war dies der kniffligste Teil der Reise, da es verschiedene Faktoren gibt die schief gehen können.
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1321372.7505806582!2d9.669441353330615!3d49.69562314606261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a2666ecac1ac2f%3A0x59348f96975d2d39!2sHotel+Freihof!5e0!3m2!1sde!2sch!4v1473365050631" %}
 
-Zur Auflösung: Liza hat sich um die Koffer gekümmert und ich bin direkt zum Alamo Schalter gegangen und er war sogar noch besetzt. Zwischenzeitlich hatten wir sogar den Alamo Twitter Account angeschrieben – was man nicht alles so macht. Wir bekamen das Auto und auch die Argentinienbewilligung war relativ schnell beantragt. Spätestens am nächsten Tag am Abend sollte das Dokument dann auch vorliegen. Wir hätten es sogar per Email zugeschickt bekommen können, aber da die Beamten an der Grenzen bestimmt auf Papier bestehen wollten wir es doch traditionell bekommen.
+## Ja oder Nein?
 
-Nachdem wir dann unseren Wagen hatten, irgendein grossen Nissan, und ich mich an die Automatik-Gangschaltung gewöhnt hatte ging es dann nach Puerto Vares zu unserem Hotel „Solace“. Hübsch war es.  
+Bitte gebt uns bis __15.01.2017__ via [E-Mail](mailto:hochzeit@einkoffervollerreisen.de) oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
 
-{% include image.html url="images-2015-chile/chile-2015-01-17_00123-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-17_00123-1920x1080.jpg" rel="day-gallery" description="Kirche in Puerto Vares" %}
+## Unterkunft im Hotel
+
+Wir haben für euch ein Kontingent von Zimmern __reserviert__ - diese müsst ihr selbst __bis zum 15.01.2017 buchen__.
+
+Für die Hochzeitsgäste gibt es vergünstigte Zimmerpreise, je nach Zimmerart:
+
+* Komfort Einzelzimmer:            100 Euro
+* Superior Einzelzimmer:           120 Euro
+* Komfort Doppelzimmer:            136 Euro
+* Superior Doppelzimmer:           148 Euro
+* Studio:                          170 Euro
+* Zustellbetten für Kinder bis 12: 12  Euro
+
+Im Hotelpreis inklusive ist natürlich Frühstück und die Benutzung des Spa- und Wellnessbereichs (welcher wirklich hübsch ist!).
+
+Bei der Buchung bitte angeben, dass ihr zur __Hochzeitsgesellschaft Hahne/Mühsig__ gehört.
+
+### Hotel Adresse
+
+Hotel Freihof
+Freihofgasse 3
+97357 Prichsenstadt, Deutschland
+http://www.hotelfreihof.com/
+Tel. +49 (0) 93 83. 90 20 340
+info@hotelfreihof.com
+
+### Alternativen Unterkünfte
+
+Falls ihr nicht direkt im Hotel übernachten möchtet gibt es auch noch (evtl. günstigere) Alternativen direkt im Ort:
+
+[Gasthof Weingut zum Storch](http://www.gasthof-storch.de/) - Tel: 09383 / 6587
+[Gasthof Grüner Baum](http://www.gasthaus-gruener-baum.com/) - Tel: 09383 / 1572
+
+## Die Feier
+
+Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. 
+
+## Für die kleinen Gäste
+
+Wir werden für den Abend ein Babysitter organisieren, welcher auf Babyphones und co. achtet. Direkt bei der Hochzeitslocation gibt es zum ein kleinen Spielplatz. 
