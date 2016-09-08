@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Travelogue" />
+
+		<title>{{ site.title }}</title>
+		<link rel="shortcut icon" href="{{ site.production_url }}/favicon.ico">
+
+		<!-- ### CSS Stylesheets ##################################################################### -->
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url_theme }}/css/normalize.css" /><!-- CSS: Normalize -->
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url_theme }}/css/font-awesome.min.css" /><!-- CSS: Font Awesome -->
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url_theme }}/css/styles.css" /><!-- CSS: Main CSS -->
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url_theme }}/css/responsive.css" /><!-- CSS: Responsive CSS -->
+		<!-- ### CSS Customized  ##################################################################### -->
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url }}/assets/customize.css" />
+		<link rel="stylesheet" type="text/css" href="{{ site.production_url }}/assets/css/swipebox.min.css" />
+
+	</head>
+	<body  class="{{ layout.style }}">
+
+		{{ content }}
+
+	<!-- ### Sidebar Menu ##################################################################### -->
+	<div id="st-container" class="st-container st-effect-1">
+		<div class="st-menu st-effect-1">
+			<div class="fullwidth site-infos">
+				<div class="logo">
+					<a href="index.html">
+						<img src="{{ site.production_url_theme }}/img/travelogue-logo.png" alt="Travelogue">
+					</a>
+				</div>
+				<h3 class="section-title">{{ site.title }}</h3>
+				<span class="section-description">{{ site.subtitle }}</span>
+			</div>
+			<nav class="fullwidth sidebar-navigation-menu">
+				<ul>
+					<li><a href="{{ site.production_url }}"><i class="fa fa-home"></i>Startseite</a></li>
+					<li><a href="{{ site.production_url }}/contact"><i class="fa fa-heart"></i>Impressum</a></li>
+					<li><a href="{{ site.production_url }}/privacy"><i class="fa fa-lock"></i>Datenschutz</a></li>
+				</ul>
+			</nav>
+			<div class="fullwidth bottom-links">
+				<p>2016 © www.einkoffervollerreisen.de. <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Lizenz</a></p>
+				<p><a href="https://github.com/robertmuehsig/EinKofferVollerReisen">Hosted @ GitHub</a></p>
+			</div>
+		</div>
+	</div>
+
+		<div id="infinitescroll"></div>
+		<!-- ### JS Scripts ##################################################################### -->
+		<script src="{{ site.production_url_theme }}/js/modernizr.custom.js"></script>
+		<script src="{{ site.production_url_theme }}/js/jquery.min.js"></script>
+		<script src="{{ site.production_url_theme }}/js/sidebarEffects.js"></script>
+		<script src="{{ site.production_url_theme }}/js/classie.js"></script>
+		<script src="{{ site.production_url_theme }}/js/custom.js"></script>
+		<script src="{{ site.production_url_theme }}/js/transition.js"></script>
+		<script src="{{ site.production_url_theme }}/js/jquery.infinitescroll.js"></script>
+		<script src="{{ site.production_url_theme }}/js/jquery.ketchup.all.min.js"></script>
+		<script src="{{ site.production_url }}/assets/js/jquery.swipebox.min.js"></script>
+		<script src="{{ site.production_url }}/assets/js/jquery.lazyloadxt.min.js"></script>
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script>
+			var index = 1;
+			var t;
+
+			$('.content > div > .grid').infinitescroll({
+				debug		 	: false,
+				loading: {
+					finished	: function( opts ){},
+					start		: startAjax,
+				},
+				navSelector  	: "#infinitescroll",
+				nextSelector 	: "#infinitescroll",
+				itemSelector 	: "figure",
+				dataType	 	: 'html',
+		        maxPage         : 4,
+				path: function(index) {
+					var count = parseInt(index)-1;
+					return "ajax/content-"+count+".html";
+				},
+		    });
+
+			function startAjax( opts ) {
+				$.infinitescroll.prototype.options = opts;
+			    $.infinitescroll.prototype.beginAjax(opts);
+			}
+
+			;( function( $ ) {
+				$(".swipebox").swipebox();
+			} )( jQuery );
+
+		</script>
+		<a href="#" class="back-to-top">Top</a>
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-1562299-5', 'auto');
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+	</body>
+</html>

@@ -1,0 +1,4 @@
+<a rel="{{ include.rel }}" href="{{ site.imagerepository }}{{ include.bigUrl }}" class="swipebox" title="{{ include.description }}" alt="{{ include.description }}">
+  <img src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+</a>
+{% if include.description != null %}<br><span class="image-Footer">{{ include.description }}</span>{% endif %}

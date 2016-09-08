@@ -1,0 +1,85 @@
+---
+style: "index-single"
+layout: default
+---
+<div id="container" class="container intro-effect-push">
+
+		<a class="cd-primary-nav-trigger" id="trigger-menu" href="#0">
+		  	<span class="cd-menu-icon"></span>
+		</a>
+
+			<header class="header">
+				<div class="bg-img">
+					<img  class="async-image hide" src="#" data-src="{{ site.imagerepository }}{{ page.header-image }}" alt="" />
+					<div class="overlay hidden" id="overlay"></div>
+				</div>
+				<div class="title hidden" id="title">
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
+			<button class="trigger scroll-down-pulse"><span>Trigger</span></button>
+			<div class="title">
+				<h1 class="black">{{ page.title }}</h1>
+				<h2 class="subline">{{ page.subtitle }}</h2>
+			</div>
+			<article class="content">
+			<div>
+				{{ content }}
+			</div>
+			<div class="divider_30"></div>
+			<div class="article-footer">
+					<p>
+						Geschrieben von <strong>{{ site.author.name }}</strong> &mdash; am
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}.
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ page.date | date: "%Y" }}.
+					</p>
+
+					<div class="clearfix"></div>
+			</div>
+			</article>
+
+
+			<div class="divider_30"></div>
+			<div class="divider_30"></div>
+
+			<div class="pagination grid">
+				<figure class="single-item-effect half">
+					<img src="{{ site.imagerepository }}{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title-full }}"/>
+					<figcaption>
+						<div class="figcaption-border">
+							<h2><i class="fa fa-angle-left"></i> {{ page.navigation.previous.title-small }} <span>{{ page.navigation.previous.title-bold }}</span></h2>
+							<p>{{ page.navigation.previous.title-full }}</p>
+							<a href="{{ page.navigation.previous.link }}">{{ page.navigation.previous.title-full }}</a>
+							<div class="figure-overlay"></div>
+						</div>
+					</figcaption>
+				</figure>
+				<figure class="single-item-effect half">
+					<img src="{{ site.imagerepository }}{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
+					<figcaption>
+						<div class="figcaption-border">
+							<h2>{{ page.navigation.next.title-small }} <span>{{ page.navigation.next.title-bold }}</span> <i class="fa fa-angle-right"></i> </h2>
+							<p>{{ page.navigation.next.title-full }}</p>
+							<a href="{{ page.navigation.next.link }}">{{ page.navigation.next.title-full }}</a>
+							<div class="figure-overlay"></div>
+						</div>
+					</figcaption>
+				</figure>
+				<div class="clearfix"></div>
+			</div>
+		</div>
