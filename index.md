@@ -20,17 +20,19 @@ navigation:
 
 ## Location & Hotel
 
-Die Hochzeit findet am __26.05.2017__ (das ist der Tag nach Männertag) im __[Hotel Freihof](http://www.hotelfreihof.com)__ in der Nähe von Würzburg statt:
+Die Hochzeit findet am __[26.05.2017]({{ site.production_url }}/Hochzeit_Liza_Robert.ics)__ (das ist der Tag nach Männertag) im __[Hotel Freihof](http://www.hotelfreihof.com)__ in der Nähe von Würzburg statt:
 
 {% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1321372.7505806582!2d9.669441353330615!3d49.69562314606261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a2666ecac1ac2f%3A0x59348f96975d2d39!2sHotel+Freihof!5e0!3m2!1sde!2sch!4v1473365050631" %}
 
 ## Ja oder Nein?
 
-Bitte gebt uns bis __15.01.2017__ via [E-Mail](mailto:hochzeit@einkoffervollerreisen.de) oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
+Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Liza_Robert.ics)__ via [E-Mail](mailto:hochzeit@einkoffervollerreisen.de) oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
 
 ## Unterkunft im Hotel
 
-Wir haben für euch ein Kontingent von Zimmern __reserviert__ - diese müsst ihr selbst __bis zum 15.01.2017 buchen__.
+Wir haben für euch ein Kontingent von Zimmern __reserviert__.
+
+Diese müsst ihr selbst __bis zum 15.01.2017 buchen__.
 
 Für die Hochzeitsgäste gibt es vergünstigte Zimmerpreise, je nach Zimmerart:
 
@@ -48,10 +50,17 @@ Bei der Buchung bitte angeben, dass ihr zur __Hochzeitsgesellschaft Hahne/Mühsi
 ### Hotel Adresse
 
 Hotel Freihof
+
 Freihofgasse 3
-97357 Prichsenstadt, Deutschland
+
+97357 Prichsenstadt
+
+Deutschland
+
 http://www.hotelfreihof.com/
+
 Tel. +49 (0) 93 83. 90 20 340
+
 info@hotelfreihof.com
 
 ### Alternativen Unterkünfte
@@ -59,6 +68,7 @@ info@hotelfreihof.com
 Falls ihr nicht direkt im Hotel übernachten möchtet gibt es auch noch (evtl. günstigere) Alternativen direkt im Ort:
 
 [Gasthof Weingut zum Storch](http://www.gasthof-storch.de/) - Tel: 09383 / 6587
+
 [Gasthof Grüner Baum](http://www.gasthaus-gruener-baum.com/) - Tel: 09383 / 1572
 
 ## Die Feier
