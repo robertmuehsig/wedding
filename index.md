@@ -28,6 +28,8 @@ Die Hochzeit findet am __[26.05.2017]({{ site.production_url }}/Hochzeit_Liza_Ro
 
 Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Liza_Robert.ics)__ via __[E-Mail](mailto:hochzeit@einkoffervollerreisen.de)__ oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
 
+Zudem würden wir gern noch wissen, ob ihr lieber Fleisch, Fisch oder vegetarisches Essen nehmen würdet - dies würde uns bei der Planung helfen.
+
 ## Unterkunft im Hotel
 
 Wir haben für euch ein Kontingent von Zimmern __reserviert__.
@@ -86,3 +88,5 @@ Schweiz<br/>
 ## Wir freuen uns auf euch!
 
 Wir hoffen das wir euch alle am 26.05 begrüssen können.
+
+PS - Für alle Pokemon Go Spieler: Das Hotel ist ein Pokestop.
