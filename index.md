@@ -3,19 +3,6 @@ layout: post
 title: "Wir heiraten!"
 subtitle: "Am 26.05.2017"
 header-image: "images-2015-chile/chile-2015-01-16_00068-1280x720.jpg"
-navigation:
-  previous:
-    title-small: "13. Januar"
-    title-bold: "Atacama Wüste - Norden"
-    title-full: "13. Januar: Atacama Wüste - Erkundungstour Nord"
-    image: "images-2015-chile/chile-2015-01-14_00045-965x350.jpg"
-    link: "/2015-chile/atacama-nord"
-  next:
-    title-small: "15. Januar"
-    title-bold: "Insel Chileo und mehr"
-    title-full: "15. Januar: Suche nach der Fährreservierung und Besuch der Insel Chileo"
-    image: "images-2015-chile/chile-2015-01-15_00067-965x350.jpg"
-    link: "/2015-chile/insel-chileo"
 ---
 
 ## Location & Hotel
