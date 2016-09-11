@@ -2,7 +2,7 @@
 layout: post
 title: "Wir heiraten!"
 subtitle: "Am 26.05.2017"
-header-image: "images-2015-chile/chile-2015-01-16_00068-1280x720.jpg"
+header-image: "{{ site.production_url }}wir.jpg"
 ---
 
 ## Location & Hotel
@@ -76,4 +76,4 @@ Schweiz<br/>
 
 Wir hoffen das wir euch alle am 26.05 begrüssen können.
 
-PS - Für alle Pokemon Go Spieler: Das Hotel ist ein Pokestop.
+PS - Für alle Pokemon Go Spieler: Das Hotel ist ein Pokestop und es gibt eine Arena im Ort ;)
