@@ -2,7 +2,7 @@
 layout: post
 title: "Wir heiraten!"
 subtitle: "Am 26.05.2017"
-header-image: "{{ site.production_url }}wir.jpg"
+header-image: "wir.jpg"
 ---
 
 ## Location & Hotel
