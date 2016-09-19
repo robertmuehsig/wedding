@@ -55,7 +55,7 @@ Falls ihr nicht direkt im Hotel übernachten möchtet gibt es auch noch (evtl. g
 
 ## Die Feier
 
-Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. Falls ihr etwas zur Abendgestaltung beitragen wollt, dann wendet euch einfach an __Katja Möwius oder Marcus Mühsig__ - ihr Nummern findet ihr auf eurer Einladung.
+Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. Falls ihr etwas zur Abendgestaltung beitragen wollt, dann wendet euch einfach an __Katja Möwius oder Marcus Mühsig__ - ihr Nummern findet ihr auf eurer Einladung, wobei die liebe Katja erst ab Weihnachten wieder im Lande ist.
 
 ## Für die kleinen Gäste
 
