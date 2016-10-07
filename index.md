@@ -17,6 +17,9 @@ Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Li
 
 Zudem würden wir gern noch wissen, ob ihr lieber Fleisch, Fisch oder vegetarisches Essen nehmen würdet - dies würde uns bei der Planung helfen.
 
+## Ein Tag früher da? Wir auch!
+Falls ihr einen Tag früher anreisst - keine Panik - wir sind auch in der Nähe. Sagt uns einfach Bescheid - und es ist ja Männertag, daher gibts bestimmt auch ein oder zwei Getränke.
+
 ## Unterkunft im Hotel
 
 Wir haben für euch ein Kontingent von Zimmern __reserviert__.
