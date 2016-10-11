@@ -11,6 +11,8 @@ Die Hochzeit findet am __[26.05.2017]({{ site.production_url }}/Hochzeit_Liza_Ro
 
 {% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1321372.7505806582!2d9.669441353330615!3d49.69562314606261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a2666ecac1ac2f%3A0x59348f96975d2d39!2sHotel+Freihof!5e0!3m2!1sde!2sch!4v1473365050631" %}
 
+Geplant ist, dass die __Freie Trauung 14.00 Uhr__ stattfindet, d.h. wer am selben Tag erst anreisen möchte bitte pünktlich sein ;)
+
 ## Ja oder Nein?
 
 Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Liza_Robert.ics)__ via __[E-Mail](mailto:hochzeit@einkoffervollerreisen.de)__ oder Telefon (+41 79 827 04 57) oder per Brieftaube oder Rabe (oder irgendwie anders... ihr schafft das!) Bescheid.
@@ -18,7 +20,7 @@ Bitte gebt uns bis __[15.01.2017]({{ site.production_url }}/ZuAbsage_Hochzeit_Li
 Zudem würden wir gern noch wissen, ob ihr lieber Fleisch, Fisch oder vegetarisches Essen nehmen würdet - dies würde uns bei der Planung helfen.
 
 ## Ein Tag früher da? Wir auch!
-Falls ihr einen Tag früher anreisst - keine Panik - wir sind auch in der Nähe. Sagt uns einfach Bescheid - und es ist ja Männertag, daher gibts bestimmt auch ein oder zwei Getränke.
+Falls ihr einen Tag früher anreisst - keine Panik - wir sind natürlich auch da. Sagt uns einfach Bescheid - und es ist ja Männertag, daher gibts bestimmt auch ein oder zwei Getränke von uns.
 
 ## Unterkunft im Hotel
 
@@ -58,7 +60,7 @@ Falls ihr nicht direkt im Hotel übernachten möchtet gibt es auch noch (evtl. g
 
 ## Die Feier
 
-Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. Falls ihr etwas zur Abendgestaltung beitragen wollt, dann wendet euch einfach an __Katja Möwius oder Marcus Mühsig__ - ihr Nummern findet ihr auf eurer Einladung, wobei die liebe Katja erst ab Weihnachten wieder im Lande ist.
+Die Feier wird ebenfalls im Hotel, in einem separaten Bereich, stattfinden. Falls ihr etwas zur Abendgestaltung beitragen wollt, dann wendet euch einfach an __Katja Möwius oder Marcus Mühsig__ - ihre Nummern findet ihr auf eurer Einladung, wobei die liebe Katja erst ab Weihnachten wieder im Lande ist.
 
 ## Für die kleinen Gäste
 
